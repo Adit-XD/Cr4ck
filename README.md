@@ -8,8 +8,8 @@ Cr4ck multi brute force
   🇮🇩TRICKER INDONESIA🇮🇩
 </h4>
 <p align="center">
-<a href="#"><img title="Author by Yayan" src="https://img.shields.io/badge/Coded%20By-YayanXD-brightgreen?"></a>
-<a href="#"><img title="Author by YayanXD" src="https://img.shields.io/badge/Code%20-python2.7-blue?"></a>
+<a href="#"><img title="Author by AditXD" src="https://img.shields.io/badge/Coded%20By-YayanXD-brightgreen?"></a>
+<a href="#"><img title="Author by AditXD" src="https://img.shields.io/badge/Code%20-python2.7-blue?"></a>
 <br>
 <a href="https://github.com/Yayan-XD/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/Yayan-XD?label=Followers&color=blue&style=flat-square"></a>
@@ -18,26 +18,7 @@ Cr4ck multi brute force
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Yayan-XD/Cr4ck.svg"/>
   </a>
   <a href="https://github.com/Yayan-XD/Cr4ck">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/Yayan-XD/Cr4ck.svg"/>
-  </a>
-  <a href="https://github.com/Yayan-XD/Cr4ck">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Yayan-XD/Cr4ck.svg"/>
-  </a>
-  <a href="https://github.com/Yayan-XD/Cr4ck">
-    <img alt="Search" src="https://img.shields.io/github/search/Yayan-XD/Craker/Cr4ck.svg"/>
-  </a>
-  <a href="https://github.com/Yayan-XD/Cr4ck">
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Yayan-XD/Cr4ck.svg"/>
-  </a>
-  <a href="https://github.com/Yayan-XD/Cr4ck">
-    <img alt="Starts" src="https://img.shields.io/github/stars/Yayan-XD/Cr4ck.svg"/>
-  </a>
-  <a href="https://github.com/Yayan-XD/Cr4ck">
-    <img alt="Forks" src="https://img.shields.io/github/forks/Yayan-XD/Cr4ck.svg"/>
-  </a>
-</div>
-<p align="center">
-
+    
 ### Fitures
 ```
 * Crack ID Grub
