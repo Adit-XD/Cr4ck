@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 #Males gw encrypt Tod jika mau recode, recode aja
 #Tapi ngotak dikit jangan Lo jual belikan sc ini kontol
-#Code by YayanXD 
+#Code by AditXD 
 #Created 05-07-2020
-#My facebook (https://www.facebook.com/KM39453)
+#My facebook (https://www.facebook.com/AdityaXD.KI3M4T)
 
 import os,sys,re,time,json,random,requests
 from bs4 import BeautifulSoup as parser
@@ -28,9 +28,9 @@ def kontol():
      ╚██████╗██║  ██║     ██║╚██████╗██║  ██╗
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝  ╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
-\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : YayanXD
-\x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/Yayan-XD
-\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Facebook : https://www.facebook.com/KM39453
+\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author   : AditXD
+\x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Github   : https://github.com/Adit-XD
+\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Facebook : https://www.facebook.com/AdityaXD.KI3M4T
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 def jembut():
@@ -41,9 +41,9 @@ def jembut():
      ╚██████╗██║  ██║     ██║╚██████╗██║  ██╗
 \x1b[1;91m  •\x1b[1;93m•\x1b[1;92m•\x1b[1;97m ╚═════╝╚═╝  ╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝\x1b[1;92m •\x1b[1;93m•\x1b[1;91m•
 \x1b[1;94m────────────────────────────────────────────────────
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : YayanXD
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/Yayan-XD
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Facebook : https://www.facebook.com/KM39453
+\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author   : AditXD
+\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Github   : https://github.com/Adit-XD
+\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Facebook : https://www.facebook.com/AdityaXD.KI3M4T
 \x1b[1;94m────────────────────────────────────────────────────""")
 
 def yayanxd():
@@ -56,7 +56,7 @@ def moch_yayan():
     time.sleep(0.1)
     print("\033[97m [\033[96m01\033[97m] Start  Cr4ck ID")
     print("\033[97m [\033[96m02\033[97m] Tutor  How to Get Fb Cookies")
-    print("\033[97m [\033[96m03\033[97m] Joined Grup Fb ❤️ RATU ERROR ❤️")
+    print("\033[97m [\033[96m03\033[97m] Add www.facebook.com/AdityaXD.KI3M4T")
     print("\033[97m [\033[96m04\033[97m] Joined Grup Fb Viral")
     print("\033[97m [\033[96m05\033[97m] Update Tools")
     print("\033[97m [\033[91m00\033[97m] Exit")
