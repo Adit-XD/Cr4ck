@@ -22,7 +22,7 @@ Cr4ck multi brute force
 $ pkg update && pkg upgrade
 $ pkg install python && pkg install python2
 $ pkg install git
-$ git clone https://github.com/Yayan-XD/Cr4ck
+$ git clone https://github.com/Adit-XD/Cr4ck
 ```
 ### And Cr4ck this script
 ```bash
@@ -41,7 +41,6 @@ $ python Cr4ck.py
 
 #### Donate :
 
-<a href="https://saweria.co/YayanXD"><img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Logo_dana_blue.svg" alt="alt text" width="80" height="80"></a> &nbsp;&nbsp;
 
 * Notice Me : Please Don't Change Name Author
 Thanks For Using My Script
