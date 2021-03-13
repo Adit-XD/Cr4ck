@@ -22,6 +22,7 @@ Cr4ck multi brute force
 $ pkg update && pkg upgrade
 $ pkg install python && pkg install python2
 $ pkg install git
+</h1>
 <h4 align="center">
  GUNAKAN SALAH 1 GITHUB DI BAWAH
 $ git clone https://github.com/Adit-XD/Cr4ck
