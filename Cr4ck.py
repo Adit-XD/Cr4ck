@@ -64,7 +64,7 @@ def moch_yayan():
     time.sleep(0.1)
 
     yayan=input("\x1b[1;97m [\x1b[1;94m•\x1b[1;91m•\x1b[1;97m] \033[90m►\033[1;93m ")
-    if yayan == "1" or yayan =="01":
+    if adit == "1" or adit =="01":
          mbasic = 'https://mbasic.facebook.com{}'
          global die,check,result, count
          id = []
@@ -350,7 +350,7 @@ def moch_yayan():
     elif yayan == "3" or yayan =="03":
          os.system('xdg-open https://www.facebook.com/groups/1683226775285117')
          yayanxd()
-    elif yayan == "4" or yayan =="04":
+    elif adit == "4" or adit =="04":
          os.system('xdg-open https://www.facebook.com/groups/868734063220514')
          yayanxd()
     elif yayan == "5" or yayan =="05":
@@ -368,6 +368,6 @@ if __name__=="__main__":
      croot()
      ikeh_ikeh_kimochi()
      kontol()
-     moch_yayan()
-     yayanxd()
+     moch_adit()
+     aditxd()
 
