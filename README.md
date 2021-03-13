@@ -7,17 +7,7 @@ Cr4ck multi brute force
 <h4 align="center">
   🇮🇩TRICKER INDONESIA🇮🇩
 </h4>
-<p align="center">
-<a href="#"><img title="Author by AditXD" src="https://img.shields.io/badge/Coded%20By-YayanXD-brightgreen?"></a>
-<a href="#"><img title="Author by AditXD" src="https://img.shields.io/badge/Code%20-python2.7-blue?"></a>
-<br>
-<a href="https://github.com/Adit-XD/followers">
-<img title="Followers" src="https://img.shields.io/github/followers/Adit-XD?label=Followers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Adit-XD/termux-style/stargazers/">
-  <a href="https://github.com/Adit-XD/Cr4ck">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Adit-XD/Cr4ck.svg"/>
-  </a>
-  <a href="https://github.com/Yayan-XD/Cr4ck">
+
     
 ### Fitures
 ```
