@@ -368,6 +368,6 @@ if __name__=="__main__":
      croot()
      ikeh_ikeh_kimochi()
      kontol()
-     moch_adit()
-     aditxd()
+     moch_yayan()
+     yayanxd()
 
