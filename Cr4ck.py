@@ -6,7 +6,6 @@
 #Created 05-07-2020
 #My facebook (https://www.facebook.com/AdityaXD.KI3M4T)
 
-import os,sys,re,time,json,random,requests,no module name
 from bs4 import BeautifulSoup as parser
 from concurrent.futures , import , ThreadPoolExecutor
 
